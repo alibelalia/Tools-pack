@@ -2,7 +2,6 @@ import os
 import sys
 import datetime 
 import time 
-import webbrowser
 from pyfiglet import Figlet
 os.system("clear")
 f = Figlet(font='slant')
