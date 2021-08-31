@@ -1,9 +1,9 @@
 # Tools-pack
-penetration testing tools installer for termux
+penetration_testing_tools installer for termux
 
 
 to installthe requirements type
-  pi3 install -r requirements.txt
+  pip3 install -r requirements.txt
   
   or
   python3 -m pip install -r requirements.txt
