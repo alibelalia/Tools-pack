@@ -6,7 +6,7 @@ from pyfiglet import Figlet
 os.system("clear")
 f = Figlet(font='slant')
 print(f.renderText('Ali-Belalia'))
-print("[+__Created By: Ali Belalia+__]")
+print("[+__Created By: Ali Belalia__+]")
 def main():
 	print('''
 	{1}-Text Editor
